@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "passiveshield",
-  "version": "3.3",
+  "version": "3.4",
 
   "name": "Passive Shield",
   "description": "The shield is hidden in the offhand until used, and they can passively block damage when held.",
   "authors": [ "Rick South" ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/passive-shield",
-    "sources": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Passive%20Shield",
-    "issues": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Passive%20Shield"
+    "homepage": "https://serilum.com/mod/passive-shield",
+    "sources": "https://github.com/Serilum/Passive-Shield",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Passive%20Shield"
   },
 
   "license": "All Right Reserved",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.19",
     "java": ">=17",
-    "collective": ">=7.3"
+    "collective": ">=7.21"
   },
 
   "custom": {
