@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "passiveshield",
-  "version": "3.5",
+  "version": "3.6",
 
   "name": "Passive Shield",
   "description": "The shield is hidden in the offhand until used, and they can passively block damage when held.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.21",
     "java": ">=21",
-    "collective": ">=7.64"
+    "collective": ">=7.78"
   },
 
   "custom": {
@@ -44,11 +44,10 @@
 	  " Alister",
 	  " Andrean Olgo",
 	  " aternosorg",
-	  " BirdieMiner",
 	  " Cherriesaurus",
 	  " Michael W. S.",
+	  " Nahuel Fernandez",
 	  " Shana Gitnick",
-	  " Sukhmai",
 	  " Tyler Behl"
   ]
 }

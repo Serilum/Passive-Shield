@@ -1,6 +1,7 @@
 package com.natamus.passiveshield;
 
 import com.natamus.collective.check.RegisterMod;
+import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.passiveshield.neoforge.config.IntegrateNeoForgeConfig;
 import com.natamus.passiveshield.neoforge.events.NeoForgeClientEvent;
 import com.natamus.passiveshield.neoforge.events.NeoForgeServerEvent;
@@ -17,6 +18,10 @@ import net.neoforged.fml.loading.FMLEnvironment;
 public class ModNeoForge {
 	
 	public ModNeoForge(IEventBus modEventBus) {
+		if (!ShouldLoadCheck.shouldLoad(Reference.MOD_ID)) {
+			return;
+		}
+
 		modEventBus.addListener(this::loadComplete);
 
 		setGlobalConstants();
