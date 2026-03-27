@@ -13,19 +13,19 @@
 <p><strong><span style="font-size:24px">Requires the library mod&nbsp;<a style="font-size:24px" href="https://curseforge.com/minecraft/mc-mods/collective" target="_blank" rel="nofollow">Collective</a>.</span></strong><br><br><strong>&nbsp;&nbsp;&nbsp;This mod is part of <span style="color:#008000"><a style="color:#008000" href="https://curseforge.com/minecraft/modpacks/the-vanilla-experience" target="_blank" rel="nofollow">The Vanilla Experience</a></span> modpack and <span style="color:#006994"><a style="color:#006994" href="https://curseforge.com/minecraft/mc-mods/serilums-client-bundle" target="_blank" rel="nofollow">Serilum's Client Bundle</a></span> mod.</strong><br><span style="font-size:18px">Passive Shield is a configurable mod which makes some changes to the shield mechanics. When a shield is held in the offhand and not in use, it will not be rendered. Whenever the player right-clicks to raise the shield, it will be shown again. When the shield is not raised, it will still negate some damage. By default 33% extra negation, but this can be changed in the config file.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-size:18px">The shield provides the same passive protection when held idle in the main hand.<br></span><br><br><strong><span style="font-size:20px">Configurable:</span> <span style="color:#008000;font-size:14px"><a style="color:#008000" href="https://github.com/Serilum/.information/wiki/how-to-configure-mods" rel="nofollow">(&nbsp;how do I configure?&nbsp;)</a></span><br></strong><span style="font-size:12px"><strong>hideShieldWhenNotInUse</strong>&nbsp;(default = true): When enabled, the shield will be hidden unless a player presses right-click.</span><br><span style="font-size:12px"><strong>passiveShieldPercentageDamageNegated</strong>&nbsp;(default = 0.3333, min 0.0, max 1.0): The percentage of damage that will be negated when a player is hit while holding a shield that's not held high.</span><br><br><br><span style="font-size:36px"><strong>GIFs:</strong></span><br><span style="font-size:14px"><strong>The shield is hidden when held in the offhand until raised:</strong></span></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/passive-shield/a.webp" width="1000" height="528"></picture></p>
-</div>
+</details>
 <p><br><br><span style="font-size:14px"><strong>The default damage without a shield:</strong></span></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/passive-shield/b.webp" width="1000" height="528"></picture></p>
-</div>
+</details>
 <p>&nbsp;<br><br><span style="font-size:14px"><strong>The shield passively negating damage when not raised in the offhand:</strong></span></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/passive-shield/c.webp" width="1000" height="530"></picture></p>
-</div>
+</details>
 <p><br><br><span style="font-size:14px"><strong>The shield passively negating damage when not raised in the mainhand:</strong></span></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/passive-shield/d.webp"></picture></p>
-</div>
+</details>
 <p><br>------------------<br><br><span style="font-size:24px"><strong>You may freely use this mod in any modpack, as long as the download remains hosted within the CurseForge or Modrinth ecosystem.</strong></span><br><br><span style="font-size:18px"><a style="font-size:18px;color:#008000" href="https://serilum.com/" rel="nofollow">Serilum.com</a> contains an overview and more information on all mods available.</span><br><br><span style="font-size:14px">Comments are disabled as I'm unable to keep track of all the separate pages on each mod.</span><span style="font-size:14px"><br>For issues, ideas, suggestions or anything else there is the&nbsp;<a style="font-size:14px;color:#008000" href="https://github.com/Serilum/.issue-tracker" rel="nofollow">Github repo</a>. Thanks!</span><span style="font-size:6px"><br><br></span></p>
