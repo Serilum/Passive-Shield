@@ -1,7 +1,6 @@
 package com.natamus.passiveshield.neoforge.events;
 
 import com.natamus.passiveshield.events.ClientEvent;
-import net.neoforged.api.distmarker.Dist;
 import net.neoforged.neoforge.client.event.RenderHandEvent;
 import net.neoforged.bus.api.SubscribeEvent;
 

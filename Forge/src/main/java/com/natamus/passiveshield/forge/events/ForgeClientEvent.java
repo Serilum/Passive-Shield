@@ -1,7 +1,6 @@
 package com.natamus.passiveshield.forge.events;
 
 import com.natamus.passiveshield.events.ClientEvent;
-import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.client.event.RenderHandEvent;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.eventbus.api.listener.SubscribeEvent;
