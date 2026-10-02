@@ -1,10 +1,10 @@
-package com.natamus.passiveshield;
+package com.serilum.passiveshield;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveEntityEvents;
-import com.natamus.passiveshield.events.ServerEvent;
-import com.natamus.passiveshield.util.Reference;
+import com.serilum.passiveshield.events.ServerEvent;
+import com.serilum.passiveshield.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;

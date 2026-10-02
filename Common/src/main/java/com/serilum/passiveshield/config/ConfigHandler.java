@@ -1,7 +1,7 @@
-package com.natamus.passiveshield.config;
+package com.serilum.passiveshield.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.passiveshield.util.Reference;
+import com.serilum.passiveshield.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

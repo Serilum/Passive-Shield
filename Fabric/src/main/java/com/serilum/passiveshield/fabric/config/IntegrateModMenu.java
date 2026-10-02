@@ -1,7 +1,7 @@
-package com.natamus.passiveshield.fabric.config;
+package com.serilum.passiveshield.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.passiveshield.util.Reference;
+import com.serilum.passiveshield.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 

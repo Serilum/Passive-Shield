@@ -1,8 +1,8 @@
-package com.natamus.passiveshield.events;
+package com.serilum.passiveshield.events;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.natamus.collective.services.Services;
-import com.natamus.passiveshield.config.ConfigHandler;
+import com.serilum.passiveshield.config.ConfigHandler;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.item.ItemStack;

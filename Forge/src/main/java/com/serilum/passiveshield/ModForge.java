@@ -1,11 +1,11 @@
-package com.natamus.passiveshield;
+package com.serilum.passiveshield;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.passiveshield.forge.config.IntegrateForgeConfig;
-import com.natamus.passiveshield.forge.events.ForgeClientEvent;
-import com.natamus.passiveshield.forge.events.ForgeServerEvent;
-import com.natamus.passiveshield.util.Reference;
+import com.serilum.passiveshield.forge.config.IntegrateForgeConfig;
+import com.serilum.passiveshield.forge.events.ForgeClientEvent;
+import com.serilum.passiveshield.forge.events.ForgeServerEvent;
+import com.serilum.passiveshield.util.Reference;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -38,7 +38,7 @@ public class ModForge {
 		if (FMLEnvironment.dist.equals(Dist.CLIENT)) {
 			MinecraftForge.EVENT_BUS.register(ForgeClientEvent.class);
 		}
-    	MinecraftForge.EVENT_BUS.register(ForgeServerEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeServerEvent.class);
 	}
 
 	private static void setGlobalConstants() {

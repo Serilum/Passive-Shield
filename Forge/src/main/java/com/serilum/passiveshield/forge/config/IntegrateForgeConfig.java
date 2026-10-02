@@ -1,7 +1,7 @@
-package com.natamus.passiveshield.forge.config;
+package com.serilum.passiveshield.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.passiveshield.util.Reference;
+import com.serilum.passiveshield.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

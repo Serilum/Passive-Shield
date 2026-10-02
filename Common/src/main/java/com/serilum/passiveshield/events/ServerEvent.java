@@ -1,7 +1,7 @@
-package com.natamus.passiveshield.events;
+package com.serilum.passiveshield.events;
 
 import com.natamus.collective.services.Services;
-import com.natamus.passiveshield.config.ConfigHandler;
+import com.serilum.passiveshield.config.ConfigHandler;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.player.Player;

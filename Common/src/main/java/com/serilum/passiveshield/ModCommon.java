@@ -1,6 +1,6 @@
-package com.natamus.passiveshield;
+package com.serilum.passiveshield;
 
-import com.natamus.passiveshield.config.ConfigHandler;
+import com.serilum.passiveshield.config.ConfigHandler;
 
 public class ModCommon {
 

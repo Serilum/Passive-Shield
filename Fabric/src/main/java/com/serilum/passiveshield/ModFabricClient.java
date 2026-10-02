@@ -1,10 +1,10 @@
-package com.natamus.passiveshield;
+package com.serilum.passiveshield;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.natamus.collective.fabric.callbacks.CollectiveRenderEvents;
-import com.natamus.passiveshield.events.ClientEvent;
+import com.serilum.passiveshield.events.ClientEvent;
 import net.fabricmc.api.ClientModInitializer;
-import com.natamus.passiveshield.util.Reference;
+import com.serilum.passiveshield.util.Reference;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.item.ItemStack;
